@@ -1,4 +1,5 @@
 Heart Disease Prediction Model
+
 This repository contains a machine learning model that predicts whether a person is suffering from heart disease based on various features. The model utilizes logistic regression and achieves an accuracy of nearly 80%.
 
 Overview
